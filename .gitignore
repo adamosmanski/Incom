@@ -8,7 +8,6 @@
 /Ex.1/CurrencyApp.Presenter/bin
 /Ex.1/CurrencyApp.Presenter/obj
 /Ex.1/CurrencyApp.UI/bin
-/Ex.1/CurrencyApp.UI
 /Ex.2/FileAnalyzer.Presenter/obj
 /Ex.2/FileAnalyzer.UI/obj
 /Ex.2/FileAnalzyer.Model/obj
@@ -23,3 +22,4 @@
 /Ex.3/ToDoList.Presenter/obj
 /Ex.3/ToDoList.UI/bin
 /Ex.3/ToDoList.UI/obj
+/Ex.1/CurrencyApp.UI/obj
