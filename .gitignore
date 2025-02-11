@@ -1,0 +1,14 @@
+
+*.v2
+/.vs
+/Ex.1/CurrencyApp.API/bin
+/Ex.1/CurrencyApp.API/obj
+/Ex.1/CurrencyApp.Model/bin
+/Ex.1/CurrencyApp.Model/obj
+/Ex.1/CurrencyApp.Presenter/bin
+/Ex.1/CurrencyApp.Presenter/obj
+/Ex.1/CurrencyApp.UI/bin
+/Ex.1/CurrencyApp.UI
+/Ex.2/FileAnalyzer.Presenter/obj
+/Ex.2/FileAnalyzer.UI/obj
+/Ex.2/FileAnalzyer.Model/obj
