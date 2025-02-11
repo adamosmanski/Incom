@@ -1,0 +1,31 @@
+Lista zadań (To-Do List): Stwórz aplikację WinForms w C#, która pozwoli użytkownikowi zarządzać listą zadań. Program powinien umożliwiać dodawanie, usuwanie i wyświetlanie zadań. Dodatkowo, zadania mogą mieć status (np. "do zrobienia", "w trakcie", "zrobione").
+
+Aplikacja powinna spełniać następujące wymagania:
+
+Interfejs użytkownika:
+
+Pole tekstowe do wprowadzenia nowego zadania.
+
+Przycisk do dodawania zadania do listy.
+
+Lista zadań wyświetlająca wszystkie dodane zadania.
+
+Przycisk do usuwania wybranego zadania z listy.
+
+Pole wyboru lub rozwijane menu do zmiany statusu zadania (np. "do zrobienia", "w trakcie", "zrobione").
+
+Funkcjonalność:
+
+Dodawanie nowych zadań do listy.
+
+Usuwanie wybranych zadań z listy.
+
+Wyświetlanie wszystkich zadań na liście.
+
+Zmiana statusu zadania na "do zrobienia", "w trakcie" lub "zrobione".
+
+Dodatkowe wymagania:
+
+Obsługa błędów.
+
+Czytelny i intuicyjny interfejs użytkownika.
