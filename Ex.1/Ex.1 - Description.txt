@@ -1,0 +1,29 @@
+Przetwarzanie danych: Stwórz aplikację WinForms w C#, która będzie odczytywać Tabelę A średnich kursów walut ze strony Narodowego Banku Polskiego (NBP).
+
+
+Aplikacja powinna spełniać następujące wymagania:
+
+Interfejs użytkownika:
+
+Pole tekstowe do wprowadzenia roku.
+
+Pole rozwijane do wyboru miesiąca.
+
+Przycisk do pobrania aktualnych kursów walut.
+
+Przycisk do pobrania archiwalnych kursów walut z wybranego roku i miesiąca.
+
+Tabela lub lista do wyświetlania pobranych kursów walut.
+
+Funkcjonalność:
+
+Pobieranie aktualnych średnich kursów walut ze strony NBP.
+
+Pobieranie archiwalnych średnich kursów walut z wybranego przez użytkownika roku i miesiąca.
+
+Wyświetlanie pobranych kursów walut w interfejsie użytkownika.
+
+Dodatkowe wymagania:
+
+Obsługa błędów.
+Czytelny i intuicyjny interfejs użytkownika.
